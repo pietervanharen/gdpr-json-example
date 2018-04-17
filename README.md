@@ -11,7 +11,7 @@ An example how to export User related data in a JSON format in order to comply t
 
 * **Pieter van Haren** - *Initial work* - [pietervanharen](https://github.com/pietervanharen)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/pietervanharen/gdpr-json-example/contributors) who participated in this project.
 
 ## License
 
