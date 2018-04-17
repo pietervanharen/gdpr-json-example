@@ -1,5 +1,4 @@
 # gdpr-json-example
-# Project Title
 
 GDPR Export JSON example
 
